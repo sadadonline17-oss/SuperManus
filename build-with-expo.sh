@@ -1,6 +1,6 @@
 #!/bin/bash
 
-export EXPO_TOKEN="J3GnDHLUp4jHhVoBpVMFJB7-UAYZqtw9y0s9yLX5"
+export EXPO_TOKEN="YOUR_EXPO_TOKEN_HERE"
 
 echo "Starting EAS build for SuperManus Android APK..."
 echo "Project: admin44aa/supermanus"

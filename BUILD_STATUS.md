@@ -176,7 +176,7 @@ The APK will include:
 ### Account Issues
 - Username: admin44aa
 - Email: sdadalmbashr@gmail.com
-- Token: J3GnDHLUp4jHhVoBpVMFJB7-UAYZqtw9y0s9yLX5
+- Token: [Configure in environment or use EAS login]
 
 ## 🎉 Success!
 
